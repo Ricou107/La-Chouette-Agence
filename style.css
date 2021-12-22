@@ -651,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #252313!important;
 }
 
 .container {
@@ -700,7 +700,7 @@ p {
 }
 
 .social {
-    max-width: 400px;
+    max-width: 800px;
     margin: auto auto auto auto;
 }
 
@@ -736,7 +736,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #17106D!important;
 }
 
 .portfolio-thumb {
@@ -775,11 +775,11 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #D3CF53!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #000050;
     color: #FFFFFF!important;
 }
 
