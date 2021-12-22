@@ -830,6 +830,20 @@ h4 {
     background-image: url("img/la-chouette-agence-banniere.jpg");
 }
 
+.col-sm-12 p {
+    font-size: 19px;
+}
+
+.col-xs-12 p:first-child {
+    font-size: 20px;
+    font-style: italic;
+
+}
+
+.col-sm-12 p {
+    font-size: 25px;
+}
+
 .bg-presentation {
     background-image: url("img/image-de-presentation.jpg");
 }
