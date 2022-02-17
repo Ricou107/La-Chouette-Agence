@@ -1,5 +1,5 @@
 # laChouetteAgence
-Project 4 - LaChouetteAgence - Optimization of accessibility and SEO of a website.
+Project 3 - LaChouetteAgence - Optimization of accessibility and SEO of a website.
 
 The goal here was to take a website which was full of default regarding the SEO and accessibility aspects.
 
